@@ -7,7 +7,7 @@ const Header = () => {
     <div className="w-11/12 max-w-3xl text-center mx-auto h-screen flex flex-col items-center justify-center gap-4 ">
       <div>
         <Image
-          src="/images/profileimg1.png"
+          src="/images/profileimg2.png"
           alt="my pic"
           width={200}
           height={200}

@@ -10,7 +10,7 @@ import {
 const servicesData = [
   {
     icon: <GanttChartSquare size={72} strokeWidth={0.8} />,
-    title: "Web Design",
+    title: "UI/UX Design",
     description:
       "I will design the visual look and feel of your website, organize content, layout and images in a way that tells a story, and design the final UI",
   },
@@ -22,7 +22,7 @@ const servicesData = [
   },
   {
     icon: <Gem size={72} strokeWidth={0.8} />,
-    title: "Landing Page Design",
+    title: "Wordpress Development",
     description:
       "I will develop high quality page designs, templates and components that persuade potential clients to take specific action. ",
   },
